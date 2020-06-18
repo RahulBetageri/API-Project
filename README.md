@@ -1,7 +1,7 @@
 # API-Project
-Install xampp server and setup it
-Put the project on xampp->htdocs folder
-Create one SQL database file and import in the phpmyadmin
+Install xampp server and setup it.
+Put the project on xampp->htdocs folder.
+Create one SQL database file and import in the phpmyadmin.
 run the code
 
 
